@@ -5,10 +5,14 @@
 네이버 뉴스 또는 다음 뉴스에서 특정 키워드와 관련된 최신 기사 정보를 수집하여 분석하시오.
 
 ### 문제 2) 공공 API를 활용한 데이터 수집 및 분석 
-data.go.kr(공공데이터포털)에서 제공하는 API를 활용하여 유용한 데이터를 수집하고 분석하시오.
-(당시 데이터센터 화재로 공공데이터 포털 사용이 불가능해서 기상청 API허브, 서울시 열린데이터 광장도 사용 가능했음)
--기상청 API허브 (https://apihub.kma.go.kr/)
--서울시 열린데이터 광장(https://data.seoul.go.kr/dataList/datasetList.do) 
+data.go.kr(공공데이터포털)에서 제공하는 API를 활용하여 유용한 데이터를 수집하고 분석하시오.  
+
+(당시 데이터센터 화재로 공공데이터 포털 사용이 불가능해서 기상청 API허브, 서울시 열린데이터 광장도 사용 가능했음)  
+
+-기상청 API허브 (https://apihub.kma.go.kr/)  
+
+-서울시 열린데이터 광장(https://data.seoul.go.kr/dataList/datasetList.do)  
+
 
 #### [패턴 및 인사이트]
 <div>
